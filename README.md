@@ -1,2 +1,2 @@
 # PINNFermion
-data and PINN for fermions
+data and PINN for fermions (Fermi-Hubbard model)
